@@ -22,4 +22,10 @@
     <dimen name="margin_smaller_32">32dp</dimen>
     <dimen name="margin_xsmall_24">24dp</dimen>
     <dimen name="margin_tiny_16">16dp</dimen>
+
+    <!-- Sizes -->
+    <dimen name="touch_target_48">48dp</dimen>
+    <dimen name="avatar_40">40dp</dimen>
+    <dimen name="icon_24">24dp</dimen>
+    <dimen name="button_height_36">36dp</dimen>
 </resources>
